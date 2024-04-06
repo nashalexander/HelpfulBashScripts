@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Example:
+# /media/drive1/data/...
+# /media/drive2/data/...
+#
+# ./this.sh /media/drive1/data /media/drive2/ 
+
 src=$1
 dest=$2
 
